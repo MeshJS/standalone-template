@@ -1,0 +1,11 @@
+{
+  "name": "standalone-template",
+  "type": "module",
+  "dependencies": {
+    "@meshsdk/core": "^1.5.17",
+    "tsx": "^4.11.0"
+  },
+  "scripts": {
+    "dev": "tsx index.ts"
+  }
+}
